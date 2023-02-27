@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc9966&size=35&center=true&vCenter=true&width=1000&lines=olá,+seja+Bem+vindo:%29)](https://git.io/typing-svg)
 
-##  
-- 🔭 olá sou estudante de tecnologia...😊
-- 🌱 Estudando programação  HTML,CSS,PYTHON...
-- 🤔 Ajudas aqui sempre serão bem vindas 👍👍👍👍 ...
-     
+
+  
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxxmiliano&show_icons=true&count_private=true&hide_border=true&title_color=cc9966&icon_color=cc9966&text_color=c9d1d9&bg_color=0d1117" alt="Maxmiliano Souza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmiliano&layout=compact&hide_border=true&title_color=cc9966&text_color=cc9966&bg_color=0d1117" />
@@ -22,7 +21,7 @@
   ##
   
   <div>
-   <a href="https://www.instagram.com/maxmilianosouzza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?    style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/maxmilianosouzza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maxmiliano-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
