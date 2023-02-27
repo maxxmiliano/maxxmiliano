@@ -4,9 +4,9 @@
 
 ##  
 - 🔭 olá sou estudante de tecnologia...😊
-- 🌱 Estudando programação front-end  HTML,CSS,PYTHON...
+- 🌱 Estudando programação  HTML,CSS,PYTHON...
 - 🤔 Ajudas aqui sempre serão bem vindas 👍👍👍👍 ...
--   Sou iniciante aqui no github!!!
+-   
 -   
 <a href="">
  <div align="">
