@@ -6,12 +6,10 @@
 - 🔭 olá sou estudante de tecnologia...😊
 - 🌱 Estudando programação  HTML,CSS,PYTHON...
 - 🤔 Ajudas aqui sempre serão bem vindas 👍👍👍👍 ...
--   
--   
-<a href="">
- <div align="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxmiliano&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmiliano&layout=compact&langs_count=7&theme=darck"/>
+     
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxxmiliano&show_icons=true&count_private=true&hide_border=true&title_color=cc9966&icon_color=cc9966&text_color=c9d1d9&bg_color=0d1117" alt="Maxmiliano Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmiliano&layout=compact&hide_border=true&title_color=cc9966&text_color=cc9966&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,7 +28,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Maxmiliano+Souza}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxxmiliano}/count.svg" /></p> 
 <br></div>
   
 
