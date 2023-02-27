@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc9966&size=35&center=true&vCenter=true&width=1000&lines=olá,+seja+Bem+vindo:%29)](https://git.io/typing-svg)
 
-
-  
+-olá sou estudante de programação!!! No momento faço parte da Comunidade Code
+![upload-image](https://user-images.githubusercontent.com/72661974/221462478-3bcb384d-3b92-4a7a-877f-5b3091146248.png)
 
 
 <div align="center">  
