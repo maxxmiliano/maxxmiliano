@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc9966&height=120&section=header&text=Maxmiliano+souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc9966&size=35&center=true&vCenter=true&width=1000&lines=olá,+seja+Bem+vindo:%29)](https://git.io/typing-svg)
-
- Olá sou estudante de programação!!! No momento faço parte da Comunidade Code
+ComunidadeCode
 
 ![upload-image](https://user-images.githubusercontent.com/72661974/221462478-3bcb384d-3b92-4a7a-877f-5b3091146248.png)
 
 
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxxmiliano&show_icons=true&count_private=true&hide_border=true&title_color=cc9966&icon_color=cc9966&text_color=c9d1d9&bg_color=0d1117" alt="Maxmiliano Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmiliano&layout=compact&hide_border=true&title_color=cc9966&text_color=cc9966&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxxmiliano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maxmiliano Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxmiliano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
